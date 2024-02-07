@@ -29,4 +29,5 @@ pip install tensorflow
 1. Long Short-Term Memory model (LSTM)
 2. Saving weights as checkpoints in Keras
 
-
+## Demo
+[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/co2_emission_lstm)
