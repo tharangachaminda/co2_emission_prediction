@@ -30,4 +30,4 @@ pip install tensorflow
 2. Saving weights as checkpoints in Keras
 
 ## Demo
-[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/co2_emission_lstm)
+[Try it on my profile](http://ec2-52-43-46-199.us-west-2.compute.amazonaws.com/co2_emission_lstm)
